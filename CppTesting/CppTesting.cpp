@@ -44,7 +44,7 @@ std::string addPage(std::array<bool, 32>& pagesOwned)
 		if (!pagesOwned[newNum])
 		{
 			pagesOwned[newNum] = true;
-			return std::to_string(newNum);
+			return std::to_string(newNum+1);
 		}
 	}
 }
@@ -57,7 +57,7 @@ std::string addPage(std::array<bool, 32>& pagesOwned, bool& bookComplete)
 		if (!pagesOwned[newNum])
 		{
 			pagesOwned[newNum] = true;
-			return std::to_string(newNum);
+			return std::to_string(newNum+1);
 		}
 		pageCount++;
 	}
@@ -669,7 +669,7 @@ int main()
 								else
 									std::cout << ", ";
 
-								delayedOutput("page " + (i + 1), textSpeed::fast);
+								delayedOutput("page " + std::to_string(i + 1), textSpeed::fast);
 							}
 						}
 						delayedOutput(".\n", textSpeed::fast);

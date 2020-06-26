@@ -1,0 +1,5 @@
+C:/Users/Xenolupus/source/repos/CppTesting/out/build/x64-Release/CMakeFiles/edit_cache.dir
+C:/Users/Xenolupus/source/repos/CppTesting/out/build/x64-Release/CMakeFiles/rebuild_cache.dir
+C:/Users/Xenolupus/source/repos/CppTesting/out/build/x64-Release/CppTesting/CMakeFiles/CppTesting.dir
+C:/Users/Xenolupus/source/repos/CppTesting/out/build/x64-Release/CppTesting/CMakeFiles/edit_cache.dir
+C:/Users/Xenolupus/source/repos/CppTesting/out/build/x64-Release/CppTesting/CMakeFiles/rebuild_cache.dir
