@@ -1,4 +1,4 @@
-# CppTesting
+# Cpp Console Adventure
 
 Download CppTestingx64Build.zip to get built version.
 
